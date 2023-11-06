@@ -1,0 +1,84 @@
+﻿@model TPFINALLAB4MVC.ViewsModels.JugadorViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <p>
+        Nombre: <input type="text" asp-for="@Model.nombre" name="busquedaNombre" />
+        Edad: <input type="number" asp-for="@Model.edad" name="busquedaEdad" />
+        NickName: <input type="text" asp-for="@Model.nickName" name="busquedaNickName" />
+
+        <input type="submit" value="Filtrar" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.jugadores[0].nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.jugadores[0].apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.jugadores[0].nickName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.jugadores[0].edad)
+            </th>
+            <th>
+                Fotografia
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.jugadores) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nickName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.edad)
+            </td>
+            <td>
+                @if (!string.IsNullOrEmpty(item.fotografia)){
+                 <img src="~/images/jugadores/@item.fotografia" class="img-thumbnail" style="max-width:50px; max-height:75px" asp-append-version="true" />
+                }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+        <div class="pagination">
+            <nav aria-label="Page navigation">
+                <ul class="pagination">
+                    @for (int i = 1; i <= Model.TotalPages; i++)
+                    {
+                        <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                            <a class="page-link" asp-controller="Jugadores" asp-action="Index" asp-route-page="@i" asp-route-pageSize="@Model.PageSize">@i</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </tbody>
+</table>

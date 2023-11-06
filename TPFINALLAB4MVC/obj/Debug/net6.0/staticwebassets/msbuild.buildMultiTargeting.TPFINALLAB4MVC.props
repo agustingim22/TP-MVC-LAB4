@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TPFINALLAB4MVC.props" />
+</Project>

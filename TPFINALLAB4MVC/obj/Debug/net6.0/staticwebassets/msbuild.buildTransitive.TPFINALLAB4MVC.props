@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TPFINALLAB4MVC.props" />
+</Project>

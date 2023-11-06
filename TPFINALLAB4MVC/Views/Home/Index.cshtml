@@ -1,0 +1,46 @@
+﻿@model IEnumerable<TPFINALLAB4MVC.Models.Jugador>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a la Liga de FIFA</h1>
+    <p>A continuación se encontrarán los jugadores que participan esta liga</p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                NickName del Jugador
+            </th>
+            <th>
+                Edad del Jugador
+            </th>
+            <th>
+                Fotografia del Jugador
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.nickName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.edad)
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.fotografia))
+                    {
+                        <img src="~/images/jugadores/@item.fotografia" class="img-thumbnail" style="max-width:75px; max-height:100px" asp-append-version="true" />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
