@@ -5,7 +5,7 @@
 namespace TPFINALLAB4MVC.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class Inicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -32,7 +32,8 @@ namespace TPFINALLAB4MVC.Migrations
                     nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     apellido = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     nickName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    edad = table.Column<int>(type: "int", nullable: false)
+                    edad = table.Column<int>(type: "int", nullable: false),
+                    fotografia = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {

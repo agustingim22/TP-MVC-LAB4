@@ -7,10 +7,17 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContexto>(options =>options.UseSqlServer(connectionString));
-//builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-//                .AddEntityFrameworkStores<AppDbContexto>();
+builder.Services.AddDefaultIdentity<IdentityUser>(options => {
+        options.SignIn.RequireConfirmedAccount = false;
+        options.Password.RequireDigit = true;
+        options.Password.RequireLowercase = true;
+        options.Password.RequireNonAlphanumeric = false;
+        options.Password.RequireUppercase = false;
+        options.Password.RequiredLength = 6;
+        options.Password.RequiredUniqueChars = 1;})
+                .AddEntityFrameworkStores<AppDbContexto>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
@@ -19,7 +26,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    //app.UseMigrationsEndPoint();
+    app.UseDeveloperExceptionPage();
 }
 else
 {

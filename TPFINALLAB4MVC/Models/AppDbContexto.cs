@@ -1,8 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace TPFINALLAB4MVC.Models
 {
-    public class AppDbContexto : DbContext
+    public class AppDbContexto : IdentityDbContext<IdentityUser>
     {
         public AppDbContexto(DbContextOptions<AppDbContexto> options) : base(options)
         {

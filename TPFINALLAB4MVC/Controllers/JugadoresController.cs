@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,7 @@ using TPFINALLAB4MVC.ViewsModels;
 
 namespace TPFINALLAB4MVC.Controllers
 {
+    [Authorize]
     public class JugadoresController : Controller
     {
         private readonly AppDbContexto _context;
@@ -23,6 +25,7 @@ namespace TPFINALLAB4MVC.Controllers
         }
 
         // GET: Jugadores
+        [AllowAnonymous]
         public async Task<IActionResult> Index(string busquedaNombre, int? busquedaEdad, string busquedaNickName, int page = 1, int pageSize = 3)
         {
             var appDBcontexto = _context.jugadores.Select(a => a);

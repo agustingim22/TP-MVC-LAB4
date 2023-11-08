@@ -1,16 +1,19 @@
 ﻿using System.Diagnostics;
 using DocumentFormat.OpenXml.InkML;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TPFINALLAB4MVC.Models;
 
 namespace TPFINALLAB4MVC.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
         private readonly AppDbContexto _context;
         private readonly IWebHostEnvironment _env;
+
         public HomeController(AppDbContexto context, IWebHostEnvironment env,ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -18,6 +21,7 @@ namespace TPFINALLAB4MVC.Controllers
             this._env = env;
         }
 
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             return _context.jugadores != null ?
@@ -25,6 +29,7 @@ namespace TPFINALLAB4MVC.Controllers
                         Problem("Entity set 'AppDbContexto.jugadores'  is null.");
         }
 
+        [AllowAnonymous]
         public IActionResult Privacy()
         {
             return View();

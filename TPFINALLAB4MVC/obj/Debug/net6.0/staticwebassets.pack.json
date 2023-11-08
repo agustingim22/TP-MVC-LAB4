@@ -1,299 +1,315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPFINALLAB4MVC.bundle.scp.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPFINALLAB4MVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\TPFINALLAB4MVC.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\EA_Sports_FC_24_logo.svg.png",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\EA_Sports_FC_24_logo.svg.png",
       "PackagePath": "staticwebassets\\images\\EA_Sports_FC_24_logo.svg.png"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\depositphotos_48911997-stock-photo-on-the-stadium.jpg",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\depositphotos_48911997-stock-photo-on-the-stadium.jpg",
       "PackagePath": "staticwebassets\\images\\depositphotos_48911997-stock-photo-on-the-stadium.jpg"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\0610c47ec3d54831a77a800734a7bb93.png",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\0610c47ec3d54831a77a800734a7bb93.png",
       "PackagePath": "staticwebassets\\images\\jugadores\\0610c47ec3d54831a77a800734a7bb93.png"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\233625d61cd4471da8fa78050b3f9515.jpg",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\0c9aa0d83b2d47adbcff68e0905747e7.png",
+      "PackagePath": "staticwebassets\\images\\jugadores\\0c9aa0d83b2d47adbcff68e0905747e7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\233625d61cd4471da8fa78050b3f9515.jpg",
       "PackagePath": "staticwebassets\\images\\jugadores\\233625d61cd4471da8fa78050b3f9515.jpg"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\4b403c7b0b944bdd86d2ea3ae3516d50.png",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\412ec980dab74874a82655701b652db9.jpg",
+      "PackagePath": "staticwebassets\\images\\jugadores\\412ec980dab74874a82655701b652db9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\4b403c7b0b944bdd86d2ea3ae3516d50.png",
       "PackagePath": "staticwebassets\\images\\jugadores\\4b403c7b0b944bdd86d2ea3ae3516d50.png"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\64b85c1ef0db44eba3a0bce8a437f0b5.png",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\64b85c1ef0db44eba3a0bce8a437f0b5.png",
       "PackagePath": "staticwebassets\\images\\jugadores\\64b85c1ef0db44eba3a0bce8a437f0b5.png"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\968fbdaa215849ebb423f2a9b28d0a04.jpg",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\8427ad5ac621489c9d4a1baca030bbb0.png",
+      "PackagePath": "staticwebassets\\images\\jugadores\\8427ad5ac621489c9d4a1baca030bbb0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\968fbdaa215849ebb423f2a9b28d0a04.jpg",
       "PackagePath": "staticwebassets\\images\\jugadores\\968fbdaa215849ebb423f2a9b28d0a04.jpg"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\a4a005aaecea41219ff71bab7b2e5cde.jpg",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\a4a005aaecea41219ff71bab7b2e5cde.jpg",
       "PackagePath": "staticwebassets\\images\\jugadores\\a4a005aaecea41219ff71bab7b2e5cde.jpg"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\cb5f190482fe4eb6b29e10380113adec.png",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\b2814f3754e84ffa98cafc35dba2fe43.png",
+      "PackagePath": "staticwebassets\\images\\jugadores\\b2814f3754e84ffa98cafc35dba2fe43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\cb5f190482fe4eb6b29e10380113adec.png",
       "PackagePath": "staticwebassets\\images\\jugadores\\cb5f190482fe4eb6b29e10380113adec.png"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\d3f29b70749f4656915e89f1ad05651f.jpg",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\d3f29b70749f4656915e89f1ad05651f.jpg",
       "PackagePath": "staticwebassets\\images\\jugadores\\d3f29b70749f4656915e89f1ad05651f.jpg"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\d93f142336394f12a149718b633c4817.png",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\d93f142336394f12a149718b633c4817.png",
       "PackagePath": "staticwebassets\\images\\jugadores\\d93f142336394f12a149718b633c4817.png"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\fa7b9dfa20634dfca5fd1048410b0262.jpg",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\images\\jugadores\\fa7b9dfa20634dfca5fd1048410b0262.jpg",
       "PackagePath": "staticwebassets\\images\\jugadores\\fa7b9dfa20634dfca5fd1048410b0262.jpg"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\js\\preview.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\js\\preview.js",
       "PackagePath": "staticwebassets\\js\\preview.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

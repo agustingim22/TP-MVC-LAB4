@@ -9,117 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TPFINALLAB4MVC
 build_property.RootNamespace = TPFINALLAB4MVC
-build_property.ProjectDir = C:\Users\Pc\Desktop\PROGRAMACION\UTN - TEC. UNIV. EN PROGRAMACION\SEGUNDO-AÑO\2DO CUATRIMESTRE 2DO AÑO\LAB 4\TPFINALLAB4MVC\TPFINALLAB4MVC\
+build_property.ProjectDir = C:\Users\Pc\Desktop\PROGRAMACION\UTN - TEC. UNIV. EN PROGRAMACION\SEGUNDO-AÑO\2DO CUATRIMESTRE 2DO AÑO\LAB 4\TPFINALLAB4MVC - copia\TPFINALLAB4MVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Pc\Desktop\PROGRAMACION\UTN - TEC. UNIV. EN PROGRAMACION\SEGUNDO-AÑO\2DO CUATRIMESTRE 2DO AÑO\LAB 4\TPFINALLAB4MVC\TPFINALLAB4MVC
+build_property.MSBuildProjectDirectory = C:\Users\Pc\Desktop\PROGRAMACION\UTN - TEC. UNIV. EN PROGRAMACION\SEGUNDO-AÑO\2DO CUATRIMESTRE 2DO AÑO\LAB 4\TPFINALLAB4MVC - copia\TPFINALLAB4MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Estados/Create.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Estados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Estados/Delete.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Estados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Estados/Details.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Estados/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Estados/Edit.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Estados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Estados/Index.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Estados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Home/Index.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Home/Privacy.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Jugadores/Create.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Jugadores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Jugadores/Delete.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Jugadores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Jugadores/Details.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Jugadores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Jugadores/Edit.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Jugadores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Jugadores/Index.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Jugadores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/PartidosDetalles/Create.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/PartidosDetalles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NEZXRhbGxlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/PartidosDetalles/Delete.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/PartidosDetalles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NEZXRhbGxlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/PartidosDetalles/Details.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/PartidosDetalles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NEZXRhbGxlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/PartidosDetalles/Edit.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/PartidosDetalles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NEZXRhbGxlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/PartidosDetalles/Index.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/PartidosDetalles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NEZXRhbGxlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Partidos/Create.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Partidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Partidos/Delete.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Partidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Partidos/Details.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Partidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Partidos/Edit.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Partidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Partidos/Index.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Partidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Shared/Error.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/_ViewImports.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/_ViewStart.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC/TPFINALLAB4MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Pc/Desktop/PROGRAMACION/UTN - TEC. UNIV. EN PROGRAMACION/SEGUNDO-AÑO/2DO CUATRIMESTRE 2DO AÑO/LAB 4/TPFINALLAB4MVC - copia/TPFINALLAB4MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s1obsz904a

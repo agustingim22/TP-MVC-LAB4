@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj": {}
+    "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj": {
+    "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj",
         "projectName": "TPFINALLAB4MVC",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\TPFINALLAB4MVC.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC\\TPFINALLAB4MVC\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\PROGRAMACION\\UTN - TEC. UNIV. EN PROGRAMACION\\SEGUNDO-AÑO\\2DO CUATRIMESTRE 2DO AÑO\\LAB 4\\TPFINALLAB4MVC - copia\\TPFINALLAB4MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,18 @@
             "EPPlus": {
               "target": "Package",
               "version": "[6.2.11, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.24, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DocumentFormat.OpenXml.Wordprocessing;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,7 @@ using TPFINALLAB4MVC.ViewsModels;
 
 namespace TPFINALLAB4MVC.Controllers
 {
+    [Authorize]
     public class PartidosController : Controller
     {
         private readonly AppDbContexto _context;
@@ -21,6 +23,7 @@ namespace TPFINALLAB4MVC.Controllers
         }
 
         // GET: Partidos
+        [AllowAnonymous]
         public async Task<IActionResult> Index(int? busquedaFecha, string busquedaNickNameRival, int page = 1, int pageSize = 3) {
             var appDBcontexto = _context.partidos.Include(x => x.estado).Include(x => x.jugador).Select(a => a);
             if (!string.IsNullOrEmpty(busquedaNickNameRival))

@@ -12,8 +12,8 @@ using TPFINALLAB4MVC.Models;
 namespace TPFINALLAB4MVC.Migrations
 {
     [DbContext(typeof(AppDbContexto))]
-    [Migration("20231027194703_Initial")]
-    partial class Initial
+    [Migration("20231108145933_Inicial")]
+    partial class Inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -56,6 +56,9 @@ namespace TPFINALLAB4MVC.Migrations
 
                     b.Property<int>("edad")
                         .HasColumnType("int");
+
+                    b.Property<string>("fotografia")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("nickName")
                         .IsRequired()
